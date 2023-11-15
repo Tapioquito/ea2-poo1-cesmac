@@ -1,9 +1,7 @@
 package Controllers;
 
 import Model.Entities.Filme;
-import Model.Entities.Ingresso;
 
-import java.util.ArrayList;
 import java.util.Scanner;
 
 public class MenuController {
